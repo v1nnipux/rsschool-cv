@@ -3,6 +3,7 @@
 ## Contact Information
    * email : Alex77791@gmail.com
    * phone : +7 812 111-11-00
+   * discord : Bl00dshot
 
 ## About:
     Hello. My name is Alexey. 32 years old. I'm studying RSSchool. And want to become Frontend Developer
